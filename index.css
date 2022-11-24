@@ -3,7 +3,7 @@ body {<!DOCTYPEhtml >
 
 < cabeça >
     < meta  charset =" UTF-8 " >
-    < title > Aulas Particulares </ title >
+    < title > debates contemporêneos </ title >
     < link  rel =" folha de estilo " href =" reset.css " >
     < link  rel =" folha de estilo " href =" estilo.css " >
     < link  href =" https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap " rel =" folha de estilo " >
@@ -28,14 +28,14 @@ body {<!DOCTYPEhtml >
     < div >
         < h2 >  < img  id =" imagem-principal " src =" professor-imagem.jpg " > Aulas particulares de Matemática </ h2 >
 
-        < p  id =" formacao " ; > Professor: < b > Diogo Garcia Fernandes </ b >
-        < p > ✔ Licenciado em Matemática pela Universidade Estadual do Norte do Paraná </ p >
-        < p > ✔ Licenciado em Física pela UNIMES </ p >
-        < p > ✔ Licenciado em Pedagogia pela FAEL </ p >
-        < p > ✔ Especialização do ensino da Matemática </ p >
+        < p  id =" formacao " ; > Professor: < b > Marco Leuthério de Souza </ b >
+        < p > ✔ Licenciado em Filosofia pela PUCPR </ p >
+        < p > ✔ Bacharel em Teologia pela PUCPR </ p >
+        < p > ✔ Licenciado em Letras pela UNIPAR </ p >
+                < p > ✔ Especialização em Filosofia e Direitos Humanos pela PUCPR </ p >
 
 
-        < p > Meu objetivo é: < i >  < u > "Buscar entender as dificuldades e trabalhar de forma clara e com metodologias
+        < p > Meu objetivo é: < i >  < u > "Promover o debate de temas que tenham relevância no cotidiano da escola"
                     diferenciados" </ u > </ i > . </ p >
     </ div >
 
@@ -44,11 +44,8 @@ body {<!DOCTYPEhtml >
 
         < ul  class =" teste " >
 
-            < li > Ensino fundamental 1 </ li >
-            < li > Ensino Fundamental 2 </ li >
             < li > Ensino Médio </ li >
-            < li > Concursos em geral </ li >
-        </ ul >
+            </ ul >
         < img  class =" imagem3 " src =" alunos.png " >
 
     </ div >
