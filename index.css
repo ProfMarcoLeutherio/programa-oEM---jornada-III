@@ -1,58 +1,63 @@
-body {
-    background-color:#1C1C1C;
-}
+body {<!DOCTYPEhtml >
+< html  lang =" pt-br " >
 
-.texto-principal {
-    margin-right: 20%; 
-}
+< cabeça >
+    < meta  charset =" UTF-8 " >
+    < title > Aulas Particulares </ title >
+    < link  rel =" folha de estilo " href =" reset.css " >
+    < link  rel =" folha de estilo " href =" estilo.css " >
+    < link  href =" https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap " rel =" folha de estilo " >
 
-h1 {
-    color: #D3D3D3;
-    text-align: center;
-}
-h2 {
-    color: #483D8B;
-}
-p {
-    color:  #5F9EA0;
+</ cabeça >
 
-}
-#imagem-principal {
-    width: 10%;
-    margin-left: 80%;
-    border: 5px dotted salmon;
-    float: left;
-    position: absolute;
-}
+< corpo >
+    < cabeçalho >
+        < div  class =" caixa " >
+            < h1 >  < img  class =" logo " src =" logotipo.png " >  </ h1 >
+        < navegar >
+        < ul >
+            < li >  < a  href =" index.html " > Início </ a > </ li >
+            < li >  < a  href =" sobre.html " > Sobre </ a > </ li >
+            < li >  < a  href =" contatos.html " > Contatos </ a > </ li >
+        </ ul >
+        </ nav >
+        </ div >
+    </ cabeçalho >
 
-.itens {
-	color:  #5F9EA0;
-	text-decoration: underline;
-}
-.texto-principal {
-    margin-right: 20%; 
-}
+    < img  id =" imagem-secundaria " src =" imagem-matematica.jpg " >
+    < div >
+        < h2 >  < img  id =" imagem-principal " src =" professor-imagem.jpg " > Aulas particulares de Matemática </ h2 >
 
-h1 {
-    color: #D3D3D3;
-    text-align: center;
-}
-h2 {
-    color: #483D8B;
-}
-p {
-    color:  #5F9EA0;
+        < p  id =" formacao " ; > Professor: < b > Diogo Garcia Fernandes </ b >
+        < p > ✔ Licenciado em Matemática pela Universidade Estadual do Norte do Paraná </ p >
+        < p > ✔ Licenciado em Física pela UNIMES </ p >
+        < p > ✔ Licenciado em Pedagogia pela FAEL </ p >
+        < p > ✔ Especialização do ensino da Matemática </ p >
 
-}
-#imagem-principal {
-    width: 10%;
-    margin-left: 80%;
-    border: 5px dotted salmon;
-    float: left;
-    position: absolute;
-}
 
-.itens {
-	color: blue;
-	text-decoration: underline;
-}
+        < p > Meu objetivo é: < i >  < u > "Buscar entender as dificuldades e trabalhar de forma clara e com metodologias
+                    diferenciados" </ u > </ i > . </ p >
+    </ div >
+
+    < div  class =" lista " >
+        < h3 > Público Alvo: </ h3 >
+
+        < ul  class =" teste " >
+
+            < li > Ensino fundamental 1 </ li >
+            < li > Ensino Fundamental 2 </ li >
+            < li > Ensino Médio </ li >
+            < li > Concursos em geral </ li >
+        </ ul >
+        < img  class =" imagem3 " src =" alunos.png " >
+
+    </ div >
+
+
+
+
+</ corpo >
+
+
+
+</ html >
